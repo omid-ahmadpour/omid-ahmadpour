@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, </br> I'm Omid Ahmadpour 👋 </h1>
 
 <p align="center">
- <a href="https://linkedin.com/in/omid-leo-ahmadpour-869b65130" target="_blank">
+ <a href="https://www.linkedin.com/in/omid-ahmadpour/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
 </p>
