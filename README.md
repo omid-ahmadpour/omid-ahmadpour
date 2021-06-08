@@ -25,7 +25,7 @@
 
 <p align="center">
  <a href="#" alt="Omid Ahmadpour's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoienTajik&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omid-ahmadpour&theme=tokyonight&show_icons=true" />
  </a>
 </p>
 
