@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Omid Ahmadpour 👋</h1>
+<h1 align="center">Hi there, </br> I'm Omid Ahmadpour 👋 </h1>
 
 <p align="center">
  <a href="linkedin.com/in/omid-leo-ahmadpour-869b65130" target="_blank">
