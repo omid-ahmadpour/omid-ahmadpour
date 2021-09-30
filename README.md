@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
 </p>
 
-- 💬 Ask me about: .NET, Clean-Architecture, Micro-Services, CQRS, Clean Code, DDD
+- 💬 Ask me about: .NET, C#, Clean-Architecture, Micro-Services, CQRS, Clean Code, DDD
 - 👯 I’m looking to collaborate on: .NET projects
 
 </br>
