@@ -38,7 +38,7 @@
 </p>
 
 <p align="center" margin>
- <a href="[https://www.buymeacoffee.com/mohsenrajabi](https://www.buymeacoffee.com/omidahmadpour)" target="_blank">
+ <a href="https://www.buymeacoffee.com/omidahmadpour" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
  </a>
 </p>
