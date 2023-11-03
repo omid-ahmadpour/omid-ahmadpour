@@ -4,6 +4,9 @@
  <a href="https://www.linkedin.com/in/omid-ahmadpour/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
+ <a href="https://www.youtube.com/@programmingwithomid" target="_blank">
+  <img src="https://icons8.com/icon/19318/youtube"/>
+ </a>
  <a href="https://github.com/omid-ahmadpour" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/github.png" />
  </a>
